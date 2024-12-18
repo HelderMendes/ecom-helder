@@ -66,6 +66,7 @@ export const orderType = defineType({
               name: "quantity",
               title: "Quantity Purchased",
               type: "number",
+              validation: (Rule) => Rule.required().min(1).integer(),
             }),
           ],
           preview: {
@@ -118,6 +119,7 @@ export const orderType = defineType({
           { title: "Cancelled", value: "cancelled" },
         ],
       },
+      initialValue: "pending",
     }),
     defineField({
       name: "orderDate",
@@ -135,7 +137,10 @@ export const orderType = defineType({
       email: "email",
     },
     prepare(select) {
-      const orderIdSnippet = `${select.orderId.slice(0, 5)}...${select.orderId.slice(-5)}`;
+      // const orderIdSnippet = `${select.orderId.slice(0, 5)}...${select.orderId.slice(-5)}`;
+      const orderIdSnippet = select.orderId
+        ? `${select.orderId.slice(0, 5)}...${select.orderId.slice(-5)}`
+        : "Unknown";
       return {
         title: `${select.name} (${orderIdSnippet})`,
         subtitle: `${select.amount} ${select.currency}, ${select.email}`,

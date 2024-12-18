@@ -1,0 +1,67 @@
+[
+  {
+    "orderNumber": "NL1234567890",
+    "stripeCheckoutSessionId": "sess_1",
+    "stripeCustomerId": "cus_1",
+    "clerkUserId": "clerk_1",
+    "customerName": "Jan Jansen",
+    "email": "jan.jansen@example.com",
+    "products": [{ "product": "Witte Sneakers", "quantity": 1 }],
+    "totalPrice": 79.99,
+    "currency": "EUR",
+    "status": "Delivered",
+    "orderDate": "2024-12-01"
+  },
+  {
+    "orderNumber": "NL1234567891",
+    "stripeCheckoutSessionId": "sess_2",
+    "stripeCustomerId": "cus_2",
+    "clerkUserId": "clerk_2",
+    "customerName": "Maria de Vries",
+    "email": "maria.devries@example.com",
+    "products": [{ "product": "Dikke Winterjas", "quantity": 1 }],
+    "totalPrice": 149.99,
+    "currency": "EUR",
+    "status": "Shipped",
+    "orderDate": "2024-12-03"
+  },
+  {
+    "orderNumber": "NL1234567892",
+    "stripeCheckoutSessionId": "sess_3",
+    "stripeCustomerId": "cus_3",
+    "clerkUserId": "clerk_3",
+    "customerName": "Tom van der Berg",
+    "email": "tom.vanderberg@example.com",
+    "products": [{ "product": "Blauwe Spijkerbroek", "quantity": 2 }],
+    "totalPrice": 119.98,
+    "currency": "EUR",
+    "status": "Pending",
+    "orderDate": "2024-12-04"
+  },
+  {
+    "orderNumber": "NL1234567893",
+    "stripeCheckoutSessionId": "sess_4",
+    "stripeCustomerId": "cus_4",
+    "clerkUserId": "clerk_4",
+    "customerName": "Anna Bakker",
+    "email": "anna.bakker@example.com",
+    "products": [{ "product": "Zwarte Enkellaarzen", "quantity": 1 }],
+    "totalPrice": 99.99,
+    "currency": "EUR",
+    "status": "Cancelled",
+    "orderDate": "2024-12-02"
+  },
+  {
+    "orderNumber": "NL1234567894",
+    "stripeCheckoutSessionId": "sess_5",
+    "stripeCustomerId": "cus_5",
+    "clerkUserId": "clerk_5",
+    "customerName": "Peter Mulder",
+    "email": "peter.mulder@example.com",
+    "products": [{ "product": "Lichtgewicht Regenjas", "quantity": 1 }],
+    "totalPrice": 69.99,
+    "currency": "EUR",
+    "status": "Paid",
+    "orderDate": "2024-11-30"
+  }
+]

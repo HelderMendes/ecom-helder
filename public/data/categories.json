@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Schoenen",
+    "slug": "schoenen",
+    "description": "De nieuwste collecties herenschoenen, damesschoenen en kinderschoenen."
+  },
+  {
+    "title": "Jassen",
+    "slug": "jassen",
+    "description": "Warme winterjassen, regenjassen en lichte zomerjassen."
+  },
+  {
+    "title": "Broeken",
+    "slug": "broeken",
+    "description": "Jeans, chino's en casual broeken voor elke gelegenheid."
+  },
+  {
+    "title": "T-Shirts",
+    "slug": "t-shirts",
+    "description": "Basic en trendy T-shirts voor dames, heren en kinderen."
+  },
+  {
+    "title": "Sportkleding",
+    "slug": "sportkleding",
+    "description": "Comfortabele en functionele sportkleding."
+  },
+  {
+    "title": "Accessoires",
+    "slug": "accessoires",
+    "description": "Petten, hoeden, sokken en meer om je outfit compleet te maken."
+  }
+]

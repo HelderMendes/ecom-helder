@@ -3,15 +3,17 @@ import { sanityFetch } from "../live";
 
 export const getAllCategories = async () => {
   const ALL_CATEGORIES_QUERY = defineQuery(`
-    *[_type == "category"] | order(title asc){description}
+    *[_type == "category"] | order(title asc)
     `);
 
   try {
     const categories = await sanityFetch({
       query: ALL_CATEGORIES_QUERY,
     });
+
     return categories.data || [];
   } catch (error) {
     console.error("Error fetching all categories:", error);
+    return [];
   }
 };

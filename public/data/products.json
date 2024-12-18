@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Witte Sneakers",
+    "slug": "witte-sneakers",
+    "price": 79.99,
+    "categories": ["Schoenen"],
+    "stock": 50
+  },
+  {
+    "name": "Zwarte Enkellaarzen",
+    "slug": "zwarte-enkellaarzen",
+    "price": 99.99,
+    "categories": ["Schoenen"],
+    "stock": 30
+  },
+  {
+    "name": "Dikke Winterjas",
+    "slug": "dikke-winterjas",
+    "price": 149.99,
+    "categories": ["Jassen"],
+    "stock": 20
+  },
+  {
+    "name": "Lichtgewicht Regenjas",
+    "slug": "regenjas",
+    "price": 69.99,
+    "categories": ["Jassen"],
+    "stock": 15
+  },
+  {
+    "name": "Blauwe Spijkerbroek",
+    "slug": "blauwe-jeans",
+    "price": 59.99,
+    "categories": ["Broeken"],
+    "stock": 40
+  },
+  {
+    "name": "Comfortabele Chino",
+    "slug": "chino-broek",
+    "price": 49.99,
+    "categories": ["Broeken"],
+    "stock": 25
+  },
+  {
+    "name": "Zwart Sport T-Shirt",
+    "slug": "zwart-sport-tshirt",
+    "price": 29.99,
+    "categories": ["Sportkleding"],
+    "stock": 35
+  },
+  {
+    "name": "Wit Basic T-Shirt",
+    "slug": "wit-basic-tshirt",
+    "price": 19.99,
+    "categories": ["T-Shirts"],
+    "stock": 60
+  },
+  {
+    "name": "Sokkenpakket (5 paar)",
+    "slug": "sokkenpakket",
+    "price": 14.99,
+    "categories": ["Accessoires"],
+    "stock": 100
+  },
+  {
+    "name": "Stijlvolle Zonnebril",
+    "slug": "zonnebril",
+    "price": 39.99,
+    "categories": ["Accessoires"],
+    "stock": 15
+  },
+  {
+    "name": "Donkergrijze Hoodie",
+    "slug": "hoodie",
+    "price": 54.99,
+    "categories": ["Sportkleding"],
+    "stock": 22
+  },
+  {
+    "name": "Lederen Riem",
+    "slug": "riem",
+    "price": 24.99,
+    "categories": ["Accessoires"],
+    "stock": 45
+  },
+  {
+    "name": "Casual Overhemd",
+    "slug": "overhemd",
+    "price": 39.99,
+    "categories": ["T-Shirts"],
+    "stock": 50
+  },
+  {
+    "name": "Sportieve Hardloopschoenen",
+    "slug": "hardloopschoenen",
+    "price": 89.99,
+    "categories": ["Schoenen", "Sportkleding"],
+    "stock": 20
+  },
+  {
+    "name": "Warme Sjaal",
+    "slug": "warme-sjaal",
+    "price": 24.99,
+    "categories": ["Accessoires"],
+    "stock": 60
+  }
+]

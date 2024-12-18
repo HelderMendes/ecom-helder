@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Jan Jansen",
+    "email": "jan.jansen@example.com",
+    "address": "Damstraat 1, 1012 JS Amsterdam",
+    "phone": "+31 6 12345678"
+  },
+  {
+    "name": "Maria de Vries",
+    "email": "maria.devries@example.com",
+    "address": "Kerkstraat 22, 3512 CK Utrecht",
+    "phone": "+31 6 87654321"
+  },
+  {
+    "name": "Tom van der Berg",
+    "email": "tom.vanderberg@example.com",
+    "address": "Markt 10, 6211 CH Maastricht",
+    "phone": "+31 6 56789123"
+  },
+  {
+    "name": "Anna Bakker",
+    "email": "anna.bakker@example.com",
+    "address": "Hoogstraat 5, 3011 PE Rotterdam",
+    "phone": "+31 6 34567890"
+  },
+  {
+    "name": "Peter Mulder",
+    "email": "peter.mulder@example.com",
+    "address": "Lange Vijverberg 4, 2513 AB Den Haag",
+    "phone": "+31 6 23456789"
+  },
+  {
+    "name": "Eva Willems",
+    "email": "eva.willems@example.com",
+    "address": "Vughterstraat 8, 5211 GH Den Bosch",
+    "phone": "+31 6 45678901"
+  },
+  {
+    "name": "Hendrik Smit",
+    "email": "hendrik.smit@example.com",
+    "address": "Bredaweg 12, 4818 GP Breda",
+    "phone": "+31 6 98765432"
+  },
+  {
+    "name": "Sofie Janssen",
+    "email": "sofie.janssen@example.com",
+    "address": "Stadhuisplein 15, 5611 EM Eindhoven",
+    "phone": "+31 6 19283746"
+  },
+  {
+    "name": "Lars Dekker",
+    "email": "lars.dekker@example.com",
+    "address": "Groenplaats 9, 5001 BV Tilburg",
+    "phone": "+31 6 28374659"
+  },
+  {
+    "name": "Lisa van Dijk",
+    "email": "lisa.vandijk@example.com",
+    "address": "Zuiderparklaan 3, 2611 ET Delft",
+    "phone": "+31 6 37465829"
+  }
+]
